@@ -42,15 +42,13 @@ ul.topnav li{
 ul.topnav li a{
   display: inline-block;
   color: #ffcc00;
-  text-align: center;
-  padding: 14px 16px;
+  padding: 20px 16px;
   text-decoration: none;
   font-size: 17px;
 }
 ul.namehomeb li a{
   display: inline-block;
   color: #ffcc00;
-  text-align: center;
   padding: 14px .5px;
   text-decoration: none;
   font-size: 17px;
@@ -83,6 +81,6 @@ ul.topnav li.icon {
   }
   ul.topnav.responsive li a {
     display: block;
-    text-align: left;
+    text-align: right;
   }
 }
