@@ -1,19 +1,19 @@
 .htmlclasss {
-  background-color: #01000C;
-  color: #ffcc00;
+  background-color: #212121;
+  color: #3480cb;
 }
 body {
-  background-color: #01000C;
-  color: #ffcc00;
+  background-color: #212121;
+  color: #3480cb;
   text-align: center;
-  color: #ffcc00;
+  color: #3480cb;
 }
 .mainphoto {
   display: block;
   margin: auto;
   height: 50%;
   width: 50%;
-  border: 1px solid #ffcc00;
+  border: 1px solid #bfbfbf;
 }
 .imagedetails {
   text-align: center;
@@ -21,7 +21,7 @@ body {
 .splashphoto {
   height: 75%;
   width: 75%;
-  border: 1px solid #ffcc00;
+  border: 1px solid #3480cb;
 }
 .removebullets{
   list-style: none;
@@ -83,4 +83,13 @@ ul.topnav li.icon {
     display: block;
     text-align: right;
   }
+}
+.nav.navbar-nav.navbar-right li a {
+    color: #3480cb;
+}
+.navbar-inverse .navbar-brand {
+    color: #3480cb;;
+}
+.navbar-inverse .navbar-toggle .icon-bar {
+    background-color: #3480cb;
 }
