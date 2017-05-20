@@ -22,7 +22,7 @@ body {
 .splashphoto {
   height: 75%;
   width: 75%;
-  border: 1px solid #3480cb;
+  border: 1px solid #bfbfbf;
 }
 .removebullets{
   list-style: none;
@@ -176,6 +176,5 @@ ul.topnav li.icon {
 }
 
 .thumbnail {
-  border: #3480cb;
-  background-color: #3480cb;
+  border: 1px solid # #ffffff;
 }
